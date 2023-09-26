@@ -1,0 +1,2 @@
+This folder is related to the dissertation of Daniel Shakespeare, University of Birmingham, ID->2400580, regarding the project of the title "Aid Distribution after Disaster".
+The attached code is created for the purposes of running on the CPLEX commercial solver. The results obtained in the project were derived from a v12.7 installation.
